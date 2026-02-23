@@ -3,3 +3,4 @@ job-dsl
 workflow-aggregator
 git
 blueocean
+explain-error
